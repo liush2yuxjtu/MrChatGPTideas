@@ -1,21 +1,21 @@
 # MrChatGPTideas
 
-A lightweight repository for collecting, organizing, and iterating on ChatGPT-related ideas, prompts, workflows, and experiments.
+一个轻量级仓库，用于收集、整理和迭代与 ChatGPT 相关的想法、提示词、工作流和实验。
 
-## Purpose
+## 项目目的
 
-This repository is intended to serve as a personal idea lab for:
+这个仓库可以作为个人 AI 想法实验室，用来记录和沉淀：
 
-- ChatGPT prompt ideas
-- AI assistant workflow concepts
-- Automation experiments
-- Product or prototype notes
-- Reusable interaction patterns
-- Future project seeds
+- ChatGPT 提示词想法
+- AI 助手工作流概念
+- 自动化实验
+- 产品或原型笔记
+- 可复用的人机交互模式
+- 未来项目的灵感种子
 
-## Repository Structure
+## 仓库结构
 
-The structure can evolve over time. A suggested organization is:
+仓库结构可以随着想法演进持续调整。建议的组织方式如下：
 
 ```text
 .
@@ -28,34 +28,34 @@ The structure can evolve over time. A suggested organization is:
     └── notes.md
 ```
 
-## Suggested Idea Format
+## 建议的想法记录格式
 
-Each idea can be recorded using the following template:
+每个想法可以使用下面的模板进行记录：
 
 ```markdown
-## Idea Title
+## 想法标题
 
-**Problem:**  
-What problem does this idea solve?
+**问题：**  
+这个想法要解决什么问题？
 
-**Concept:**  
-What is the core idea?
+**概念：**  
+核心思路是什么？
 
-**Use Case:**  
-Who would use it, and in what situation?
+**使用场景：**  
+谁会在什么情况下使用它？
 
-**Next Step:**  
-What should be tested or built first?
+**下一步：**  
+最应该先验证或构建什么？
 ```
 
-## Roadmap
+## 路线图
 
-- [ ] Add initial idea notes
-- [ ] Organize ideas by category
-- [ ] Add reusable prompt templates
-- [ ] Document experiments and outcomes
-- [ ] Convert promising ideas into standalone projects
+- [ ] 添加第一批想法笔记
+- [ ] 按类别整理想法
+- [ ] 添加可复用的提示词模板
+- [ ] 记录实验过程和结果
+- [ ] 将有潜力的想法转化为独立项目
 
-## Notes
+## 备注
 
-This repository is experimental and may change frequently as ideas are refined.
+这个仓库目前处于实验阶段，内容和结构可能会随着想法的不断完善而频繁变化。
